@@ -18,5 +18,10 @@
     "catId": 4,
     "name": "Mùa đông",
     "image": "muadong.png"
+  },
+  {
+    "catId": 5,
+    "name": "Mùa thi 3/6/23 13g",
+    "image": "muathi.png"
   }
 ]
